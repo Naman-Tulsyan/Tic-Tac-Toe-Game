@@ -55,7 +55,9 @@ resetBtn.onclick = () => {
         box.handleclick = () => display_OX(box);
         box.addEventListener("click", box.handleclick); 
     });
+    turn_count = 0;
     player_O = true;
+    display.innerHTML = "Player O";
 };
 
 newBtn.onclick = () => {
@@ -65,5 +67,6 @@ newBtn.onclick = () => {
         box.addEventListener("click", box.handleclick); 
     });
     player_O = true;
+    display.innerHTML = "Player O";
     winBox.style.visibility = "hidden";
 };
