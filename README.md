@@ -22,4 +22,4 @@ This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript. It allow
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/pynaman/Tic-Tac-Toe-Game.git
+   https://github.com/Naman-Tulsyan/Tic-Tac-Toe-Game.git
